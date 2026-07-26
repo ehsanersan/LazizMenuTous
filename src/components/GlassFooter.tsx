@@ -29,7 +29,7 @@ export default function GlassFooter() {
               </div>
             </div>
             <p className="text-white/30 text-sm leading-relaxed">
-              منوی اختصاصی شرکت قیر پردیس پارس
+              منوی اختصاصی شرکت آسفالت طوس
             </p>
           </div>
 
