@@ -71,7 +71,7 @@ export default function GlassHeader() {
             {/* Center - Company */}
             <div className="hidden lg:flex items-center">
               <span className="text-white/60 text-sm px-4 py-1.5 rounded-full bg-white/5 border border-white/10">
-                شرکت قیر پردیس پارس
+                شرکت آسفالت طوس
               </span>
             </div>
 
