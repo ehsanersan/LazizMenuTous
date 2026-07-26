@@ -154,7 +154,7 @@ export default function HeroSection() {
             منوی اختصاصی
             <br />
             <span className="bg-gradient-to-l from-amber-300 via-amber-400 to-amber-500 bg-clip-text text-transparent">
-              شرکت قیر پردیس پارس
+              شرکت آسفالت طوس
             </span>
           </h1>
 
